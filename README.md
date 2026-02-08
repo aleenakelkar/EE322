@@ -6,6 +6,12 @@ It is used for the class and in Spring 2026
 
 *This text is italicized.*
 
+## Horizontal Rule
+
+Some content here.
+
+---
+
 > This is a block quote.  
 ## Link
 
@@ -31,5 +37,6 @@ It is used for the class and in Spring 2026
 ```python
 def hello():
     print("Hello, GitHub README!")
+
 
 
