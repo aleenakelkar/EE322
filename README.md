@@ -7,6 +7,10 @@ It is used for the class and in Spring 2026
 *This text is italicized.*
 
 > This is a block quote.  
+## Link
+
+[Visit GitHub](https://github.com)
+![download](https://github.com/user-attachments/assets/0da66a50-f5bf-41c2-b9e0-e65bc641f95b)
 
 ## Lists
 
@@ -26,9 +30,4 @@ It is used for the class and in Spring 2026
 def hello():
     print("Hello, GitHub README!")
 
-### Link
-
-[Visit GitHub](https://github.com)
-
-[download](https://github.com/user-attachments/assets/d9272209-bdef-452c-bc6e-50efd250df85)
 
